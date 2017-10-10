@@ -1,0 +1,9 @@
+top-left-square,discrete
+top-middle-square,discrete
+top-right-square,discrete
+middle-left-square,discrete
+middle-middle-square,discrete
+middle-right-square,discrete
+bottom-left-square,discrete
+bottom-middle-square,discrete
+bottom-right-square,discrete

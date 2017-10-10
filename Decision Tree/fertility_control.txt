@@ -1,0 +1,9 @@
+Season,discrete
+Age,discrete
+diseases,discrete
+Accident,discrete
+Surgical_intervention,discrete
+fevers,discrete
+alcohol_consumption,discrete
+Smoking,discrete
+sitting,discrete

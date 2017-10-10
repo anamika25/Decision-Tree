@@ -1,0 +1,4 @@
+Recency,discrete
+Frequency,discrete
+Monetary,discrete
+Time,discrete

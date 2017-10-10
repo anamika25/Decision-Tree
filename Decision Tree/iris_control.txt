@@ -1,0 +1,4 @@
+ sepal_length,continuous
+ sepal_width,continuous
+ petal_length,continuous
+ petal_width,continuous

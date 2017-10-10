@@ -1,0 +1,8 @@
+L-CORE,discrete
+L-SURF,discrete
+L-O2,discrete
+L-BP,discrete
+SURF-STBL,discrete
+CORE-STBL,discrete
+BP-STBL,discrete
+COMFORT,discrete
